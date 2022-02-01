@@ -1,0 +1,37 @@
+body{
+    background-color: ghostwhite;
+}
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+#perfil{
+    margin:auto;
+    width: 150px;
+    height: 200px;
+}
+#redes{
+    margin:auto;
+    width: 40px;
+    height: 40px;  
+}
+
+#contenedor{
+    margin: 15px;
+    width: auto;
+    background-color:#E7E9EB;
+    padding: 8px 12px;
+    border-radius: 10px;
+}
+
+#contenido{
+    width: auto;
+    background-color: white;
+    border-radius: 15px;
+}
